@@ -1,2 +1,3 @@
 # jovanlekanic.com
-The custom CSS I wrote for the site of my client
+The custom CSS I wrote for my client's site
+Some of the changes I made to the original theme are: button colors and appearance, font colors and sizes, navbar appearance, custom logo, woo commerce buttons, contact form text and buttons...
